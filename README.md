@@ -3,7 +3,7 @@
 A Sudoku game with two ways to play: a terminal version in Python, and a browser version hosted on GitHub Pages.
 
 ## Play in the browser
-👉 https://Veena-Gayathri.github.io/sudoku-project/
+👉 https://veena-gayathri.github.io/sudoku-project/
 
 No install needed — just open the link. Pick a difficulty, click or tap a cell, and enter numbers with your keyboard or the on-screen number pad.
 
