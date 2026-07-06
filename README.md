@@ -20,18 +20,6 @@ python sudoku.py
 
 You'll be asked to choose a difficulty (Easy / Medium / Hard), then a puzzle is generated and you can start filling it in — enter a row, column, and number, or press `10` to reveal the solution and exit.
 
-## Project structure
-
-sudoku-project/
-├── python/
-│   └── sudoku.py     # terminal version
-├── docs/
-│   └── index.html    # browser version (served via GitHub Pages)
-├── .gitignore
-└── README.md
-
-The two versions don't share code — the browser game is a standalone JavaScript reimplementation of the same generation and solving logic, since Python doesn't run natively in a browser.
-
 ## How it works
 
 Both versions use the same core approach:
