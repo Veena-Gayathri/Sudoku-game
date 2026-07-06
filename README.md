@@ -4,7 +4,7 @@ A Sudoku game with two ways to play: a terminal version in Python, and a browser
 
 ## Play in the browser
 
-https://veena-gayathri.github.io/Sudoku-game/
+[https://veena-gayathri.github.io/Sudoku-game/](https://veena-gayathri.github.io/Sudoku-game/)
 
 No install needed — just open the link. Pick a difficulty, click or tap a cell, and enter numbers with your keyboard or the on-screen number pad.
 
